@@ -1,0 +1,17 @@
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Priprema\piClient\bin\Debug\piClient.exe.config
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Priprema\piClient\bin\Debug\piClient.exe
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Priprema\piClient\bin\Debug\piClient.pdb
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Priprema\piClient\obj\Debug\piClient.Form1.resources
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Priprema\piClient\obj\Debug\piClient.Properties.Resources.resources
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Priprema\piClient\obj\Debug\piClient.csproj.GenerateResource.Cache
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Priprema\piClient\obj\Debug\piClient.exe
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Priprema\piClient\obj\Debug\piClient.pdb
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Labos\piClient\bin\Debug\piClient.exe.config
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Labos\piClient\obj\Debug\piClient.exe
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Labos\piClient\obj\Debug\piClient.pdb
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Labos\piClient\bin\Debug\piClient.exe
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Labos\piClient\bin\Debug\piClient.pdb
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Labos\piClient\obj\Debug\piClient.csprojResolveAssemblyReference.cache
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Labos\piClient\obj\Debug\piClient.Form1.resources
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Labos\piClient\obj\Debug\piClient.Properties.Resources.resources
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Labos\piClient\obj\Debug\piClient.csproj.GenerateResource.Cache

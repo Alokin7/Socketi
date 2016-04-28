@@ -1,0 +1,12 @@
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Priprema\Priprema\bin\Debug\Priprema.exe.config
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Priprema\Priprema\bin\Debug\Priprema.exe
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Priprema\Priprema\bin\Debug\Priprema.pdb
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Priprema\Priprema\obj\Debug\piServer.csprojResolveAssemblyReference.cache
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Priprema\Priprema\obj\Debug\Priprema.Form1.resources
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Priprema\Priprema\obj\Debug\Priprema.Properties.Resources.resources
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Priprema\Priprema\obj\Debug\piServer.csproj.GenerateResource.Cache
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Priprema\Priprema\obj\Debug\Priprema.exe
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Priprema\Priprema\obj\Debug\Priprema.pdb
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Labos\Priprema\bin\Debug\Priprema.exe.config
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Labos\Priprema\obj\Debug\Priprema.exe
+C:\Users\PI\Desktop\mojiPokusi\Priprema Komunikacija\Labos\Priprema\obj\Debug\Priprema.pdb
